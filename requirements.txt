@@ -1,0 +1,4 @@
+opencv_python==3.4.2.17
+requests==2.18.4
+pymaybe==0.1.6
+numpy==1.14.5
